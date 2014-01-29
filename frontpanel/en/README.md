@@ -1,4 +1,4 @@
-    Wordclock artwork - frontpanel English
+# Wordclock artwork: English frontpanel
 
 You'll find the English frontpanel design within this directory. Currently 
 there is only one version available.
