@@ -1,4 +1,4 @@
-    Wordclock artwork - frontpanel German
+# Wordclock artwork: German frontpanel
 
 You'll find the German frontpanel design within this directory. There are two
 versions:
